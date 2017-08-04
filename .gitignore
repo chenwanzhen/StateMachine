@@ -115,3 +115,5 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/jetbrains,osx,java
+.idea
+*.iml
